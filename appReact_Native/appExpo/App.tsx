@@ -67,8 +67,8 @@ let dados = () => {
 /*
 PROVA_______________________________________________________________________
   memoriasss
-  soma binaria
-  conversão de decimal pra binario
+  soma binariassss
+  conversão de decimal pra binariosss
   decimal pra hexadecimal
   notação cientifica de binarios
   ponto flutuante e coisas

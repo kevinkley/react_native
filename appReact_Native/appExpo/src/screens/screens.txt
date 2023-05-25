@@ -1,0 +1,1 @@
+Contém as telas individuais do aplicativo, cada uma em seu próprio arquivo.

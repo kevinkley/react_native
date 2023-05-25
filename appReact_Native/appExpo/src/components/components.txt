@@ -1,0 +1,1 @@
+Contém componentes reutilizáveis que podem ser usados em várias telas.

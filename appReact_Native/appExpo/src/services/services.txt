@@ -1,0 +1,1 @@
+Contém arquivos para lidar com serviços externos, como chamadas de API.
